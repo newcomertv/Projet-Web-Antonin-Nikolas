@@ -1,1 +1,30 @@
 /* Agencement de la page avec CSS Flexbox */
+
+header{
+    display: flex;
+    flex-direction: row;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+span{
+    display:none;
+}
+
+
+/*
+.dropdown{
+    position: relative;
+}
+
+.dropdownlist{
+        position: absolute;
+        right: 0;
+        top: 100%;
+    }
+*/

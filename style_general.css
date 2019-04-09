@@ -26,7 +26,7 @@ nav { height: 100%; }
 nav a {
   color: #eee;
   display: inline-block;
-  text-align: left;
+  text-align: left; 
   text-decoration: none;
   padding: 18px;
   height: 100%;
@@ -58,3 +58,13 @@ footer {
   margin-right: 10px;
   text-align: justify;
 }
+
+.maj{
+  text-transform: uppercase;
+}
+
+.center{
+  text-align: center;
+}
+
+/* this is a comment */
