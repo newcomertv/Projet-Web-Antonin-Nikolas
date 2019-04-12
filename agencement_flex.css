@@ -18,8 +18,8 @@ span{
 
 img{
     border-radius: 50%;
-    width: 25%;
-    height: 25%;
+    width: 10em;
+    height: 10em;
 }
 
 switch{
@@ -29,10 +29,16 @@ switch{
 
 .contain1{
     display:flex;
+    text-align: justify;
 }
+
+/* .contain1 img{
+    width: 50em;
+} */
 
 .contain2{
     display:flex;
+    text-align: justify;
 }
 
 @media screen and (max-width: 767px){
